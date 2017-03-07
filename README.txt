@@ -1,2 +1,2 @@
 # Hello Surya
-Visit us at [hellosurya.com](hellosurya.com)
+Visit us at hellosurya.com
